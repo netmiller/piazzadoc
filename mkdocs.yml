@@ -1,0 +1,54 @@
+site_name: Piazzadoc @ Coaching Onward 2016
+
+# Documentation and theme
+docs_dir: 'sivut'
+##theme: 'material'
+theme: 'readthedocs'
+
+# Copyright
+copyright: 'Copyright © 2016 Netmiller & Coaching Onward'
+
+pages:
+- Etusivu: index.md
+- Tiedotteet: tiedotteet.md
+- Piazza yleistä: piazza_yleista.md
+- Kirjautuminen: kirjautuminen.md
+- Oman salasanan vaihtaminen: salasanan_vaihto.md
+- Käyttäjien hallinta ja roolit: kayttajien_roolit.md
+- Käyttöliittymän osat: kayttoliittyma.md
+- Kansioiden ylläpito: kansiot.md
+- Dokumenttien laatiminen: dokumentin_tekeminen.md
+- Dokumenttien ylläpito: dokumentin_yllapito.md
+- Toimintaohjeet: toimintaohjeet.md
+- Sivueditorin vaihtaminen: sivueditorit.md
+- Uusimmat kommentit: kommentit.md
+- Haku ja laajennettu haku: hakutoiminnot.md
+- Talosta poistuneet henkilöt: henkilon_poisto.md
+- Selainten välimuistin asetuksista: selainten_asetuksista.md
+- Tekninen toteutus: tekninen_toteutus.md
+
+# Options
+extra:
+  version: 'v.1.0'
+  ##logo: 'kuvat/dancing.jpg'
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    ##text: 'Lato'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+
+##  author:
+##    github: 'my-github-handle'
+##    twitter: 'my-twitter-handle'
+
+# Extensions
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'

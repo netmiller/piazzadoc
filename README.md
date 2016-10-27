@@ -1,2 +1,3 @@
 # piazzadoc
-PiazzaOnward käyttöohjeita
+
+Piazzadoc (mkdocs) sivut ja kuvamateriaali.
