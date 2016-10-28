@@ -14,7 +14,7 @@ Sen avulla päästään kansiorakenteessa siihen osaan järjestelmää, johon ha
 Oikealla puolella käyttöliittymää löytyy ikkuna **Uusimmat muutokset**. 
 
 <p style="float:right;">
-	<img src="kuvat/kuva-139.png">
+	<img src="../kuvat/kuva-139.png">
 </p>
 
 Se kertoo mihin dokumentteihin on viimeksi koskettu, ja on hyvä apuväline niille jotka seuraavat sivuston asioita tiiviisti.
