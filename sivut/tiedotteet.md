@@ -25,15 +25,5 @@
 	Toivottavasti uusituista ohjeista on sinulle paljon hyötyä.<br>
 	Entiseen tapaan vastaan kysymyksiin ja olen tukenanne.
 
-<div style="display:none;">
-!!! note "19.12.2013 [Piazza Tuki]"
-	Lisätty ohjeita selainten asetuksista, jos palvelimelta palautuu vanha tiedosto tiedoston muuttamisen jälkeen, [Selainten välimuistiasetuksista](Selainten_asetuksista)
-
-!!! note "11.12.2013 [Piazza Tuki]"
-	Piazzalle asennettu tietoturvapäivityksiä, lue lisää: [wiki:Paivitys11122013 Päivitys 11.12.2013]
-
-!!! tip "7.10.2013 [Piazza Tuki]"
-	Piazzalle asennettu korjauspäivityksiä, lue lisää: [wiki:Paivitys07102013 Päivitys 7.10.2013]
-</div>
 
 ----
