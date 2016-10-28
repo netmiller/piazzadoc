@@ -29,7 +29,7 @@ Piazzan tunnukset voi antaa määräajaksi esim. sertifioijalle, jolloin dokumen
 
 Piazzassa sisällön ja sivujen ylläpito tapahtuu nettiselaimen avulla, joten se ei tarvitse mitään erillistä ohjelmaa toimiakseen.
 
-Piazzan käyttöön riittää, kun on käytettävissä tavanomainen www-selain, esim. Firefox, Internet Explorer, Opera, Safari tai Chrome.
+Piazzan käyttöön riittää, kun on käytettävissä tavanomainen www-selain, esim. Firefox, Chrome, Edge, Internet Explorer, Opera, Safari tai Chrome.
 
 Ohjeita [kirjautumiseen piazzalle](kirjautuminen).
 
