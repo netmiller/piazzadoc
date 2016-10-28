@@ -8,6 +8,9 @@ theme: 'readthedocs'
 # Copyright
 copyright: 'Copyright © 2016 Netmiller & Coaching Onward'
 
+repo_url: https://github.com/netmiller/piazzadoc/
+repo_name: 'GitHub'
+
 pages:
 - Etusivu: index.md
 - Tiedotteet: tiedotteet.md
