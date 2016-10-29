@@ -6,10 +6,13 @@ Tämä sivusto palvelee Piazza-dokumentoinnin käyttöohjeena ja palvelua koskev
 
 Piazza on [Coaching Onward Oy:n](http://www.onward.fi) hallinnassa oleva sisällönhallinta- ja dokumentointipalvelu, joka on käytössä yrityksen asiakkaille ja tarvittaessa muillekin.
 
-Lisätietoja sisältöasioissa antaa Coaching Onward Mirja Alaniemi.<br>
-Palvelun teknisestä toteutuksesta ja ylläpidosta vastaa [Netmiller, Esa Laitila](http://www.netmiller.fi).<br>Yhteystiedot löytyvät sivun alareunasta.
+Lisätietoja sisältöasioissa antaa Coaching Onward Mirja Alaniemi.
 
-Piazza kehitetään jatkuvasti ja olemme iloisia kehittämispalautteestanne.
+Palvelun teknisestä toteutuksesta ja ylläpidosta vastaa [Netmiller, Esa Laitila](http://www.netmiller.fi).
+
+Yhteystiedot löytyvät Piazzan login-sivulta.
+
+Piazzaa kehitetään jatkuvasti ja olemme iloisia saamastamme kehittämispalautteestanne.
 
 Lue [Mikä on Piazza-dokumentointi](piazza_yleista.md).
 
