@@ -254,7 +254,7 @@ Ennen varsinaista poistoa piazza vielä kysyy käyttäjältä varmistuksen poist
 
 **Muuokkaa** -tilassa on mahdollista antaa myös muita sisältöön liittyviä tietoja.
 
-Ruudulla on viisi !''välilehden!'' -näköistä osioita, joista avautuu kyseiseen kansioon tai sisältöön liittyvää lisätietoa.
+Ruudulla on viisi __'välilehden'__ -näköistä osioita, joista avautuu kyseiseen kansioon tai sisältöön liittyvää lisätietoa.
 
 ![Image](kuvat/kuva-127.png)
 
