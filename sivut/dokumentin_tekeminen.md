@@ -188,7 +188,7 @@ Linkitys voidaan tehdä kahdella tavalla.
 	Linkitys ei toimi Internet Explorerilla.<br>
 	Käytä Mozilla Firefoxia tai Google Chromea linkkien lisäämiseen.
 
-Sivueditorin (tekstieditorin) tulee olla muotoa [wiki:SivuEditorit TinyMCE].<br>
+Sivueditorin (tekstieditorin) tulee olla muotoa [TinyMCE](sivueditorit/#tinymce-editori).<br>
 Näkyy ja muutetaan tarvittaessa piazzan pääsivulla Asetukset.
 
 * Avataan/lisätään sivudokumentti, johon linkitys halutaan.
