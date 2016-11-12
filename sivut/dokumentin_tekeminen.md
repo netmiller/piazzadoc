@@ -20,7 +20,7 @@ Lue myös [dokumenttien ylläpito](dokumentin_yllapito) ja [Toimintaohjeet](toim
 
 Jotta prosessidokumentit (prosessikaaviot, prosessikuvaukset, apteekkiohjeet, toimintaohjeet, kokousmuistiot, sisäisten arviointien muistiot) ovat ulkoasultaan yhdenmukaiset, niille kannattaa laatia jo prosessikehittämisen alussa **mallipohjat**.
 
-Tässä esimerkki prosessikuvauksen mallipohjasta, kun dokumentti laaditaan sivuna. 
+Tässä esimerkki prosessikuvauksen mallipohjasta, kun dokumentti laaditaan sivuna.
 
 ![Image](kuvat/toimintaohjeet.png)
 
@@ -28,7 +28,7 @@ Tässä esimerkki prosessikuvauksen mallipohjasta, kun dokumentti laaditaan sivu
 
 Näin tunnistetiedot, fontit ja otsikot tulevat kohdalleen, eikä niitä tarvitse miettiä joka kerta erikseen.
 
-Dokumenttien yhtenäinen ulkoasu näyttää mukavalta, kertoo yhdenmukaisista toimintatavoista myös dokumentoinnissa. 
+Dokumenttien yhtenäinen ulkoasu näyttää mukavalta, kertoo yhdenmukaisista toimintatavoista myös dokumentoinnissa.
 
 ----
 
@@ -70,16 +70,18 @@ Nyt pääset kirjoittamaan tekstiä. **Tallenna** aina välillä (alaosassa Tall
 
 Sitten kun jatkat kirjoittamista, avaa dokumentti, valitse Muokkaa, muuta tarvittaessa pvm ja jatka kirjoittamista.
 
-Sitten kun dokumentti on valmis, se lähetetään [wiki:DokumentinJulkaiseminen hyväksyttäväksi]. 
+Sitten kun dokumentti on valmis, se lähetetään [hyväksyttäväksi](dokumentin_yllapito/#dokumentin-hyvaksyminen).
 
 Päivitettäessä dokumenttia (dokumentti on jo hyväksytty) muuttuneet kohdat kirjoitetaan esim. kursiivilla tai miten muutokset on sovittu merkittäväksi. Kun dokumenttia muutetaan seuraavan kerran, kursiivit oikaistaan ja uudet muuttuneet kohdat kursiivilla. Kursiivia käytetään vasta kun dokumentit on hyväksytty.
 
-Muistetaan muuttaa aina myös päivämäärä ja laatija tarvittaessa. Myös päivitetyt dokumentit lähetetään [wiki:DokumentinJulkaiseminen hyväksyttäväksi]
+Muistetaan muuttaa aina myös päivämäärä ja laatija tarvittaessa.<br>
+Myös päivitetyt dokumentit lähetetään [hyväksyttäväksi](dokumentin_yllapito/#dokumentin-hyvaksyminen).
 
 
 Jos et käytä mallipohjaa, avaa kansio, johon haluat laatia dokumentin. Valitse valikosta **Lisää uusi** -> **Sivu**. Avaa sitten ko. sivu -> **Muokkaa** -> aloita kirjoittaminen.
 
-Uusi dokumentti menee alimmaiseksi. Voit siirtää sen haluamaasi paikkaan samalla tavalla kuin  [wiki:KansionTekeminen kansioiden sisältöä järjestetään].
+Uusi dokumentti menee alimmaiseksi. Voit siirtää sen haluamaasi paikkaan samalla tavalla kuin
+[kansioiden sisältöä järjestetään](kansiot/#kansion-sisallon-jarjestaminen-uudelleen).
 
 ----
 
@@ -109,7 +111,7 @@ Muistetaan muuttaa tekijät oikeiksi.
 - Avataan mallipohja -> tallennetaan se tietokoneelle (esim. työpöydälle) mahdollisimman kuvaavalla lyhyellä nimellä.
 - Muutetaan tunnistetiedot ja jatketaan kirjoittamista tekstinkäsittelyohjelmalla.
 - Tallennuksen jälkeen tiedosto siirretään piazzalle.
-- Myös keskeneräiset kannattaa nostaa piazzalle. 
+- Myös keskeneräiset kannattaa nostaa piazzalle.
 
 ### Tiedoston nostaminen piazzalle
 
@@ -119,7 +121,7 @@ Valitaan vihreästä valikosta **Lisää uusi** -> **Tiedosto**.
 ![Image](kuvat/kuva-120.png)
 
 
-Kirjoitetaan nimikkeeksi tiedoston nimi. 
+Kirjoitetaan nimikkeeksi tiedoston nimi.
 
 Kuvaus ei ole pakollinen, mutta suositeltava. Siinä voi hieman tarkentaa mitä tämä liitetiedosto pitää sisällään tai jotain muuta siihen liittyvää tietoa.
 
@@ -195,7 +197,7 @@ Näkyy ja muutetaan tarvittaessa piazzan pääsivulla Asetukset.
 * Valitaan **Muokkaa**, "maalataan" linkitettävä sana/-t, valitaan editoripalkista **Lisää/muuta linkki** (ketju).
 * Näyttöön avautuu Lisää/muokkaa -näkymä.
 * Jos halutaan linkittää piazzalla oleva dokumentti, valitaan sisäisestä linkitettävä dokumentti, eli avataan kansioita niin pitkälle, että dokumentti löytyy.
-* Ruksataan linkitettävä dokumentti ja lopuksi OK. Linkitys näkyy dokumentissa alleviivauksena. 
+* Ruksataan linkitettävä dokumentti ja lopuksi OK. Linkitys näkyy dokumentissa alleviivauksena.
 * Vastaavasti linkitetään ulkoinen linkki (nettisvu).
 
 Tällä tavalla on erityisen helppoa linkittää sivuna laadittuun dokumenttiin muita dokumentteja, esim. kaikki toimintaohjeet toimintaohjeluetteloon.
@@ -212,7 +214,7 @@ Etenkin aikaisemmin suosittiin tätä kategorisoinnin kautta tapahtuvaa linkitys
 
 ----
 
-## Kuvan liittäminen dokumenttiin 
+## Kuvan liittäminen dokumenttiin
 
 Sivudokumenttiin on helppo liittää kuva esim. havainnollistaakseen tekstiä.
 
@@ -250,7 +252,7 @@ Ennen varsinaista poistoa piazza vielä kysyy käyttäjältä varmistuksen poist
 
 ----
 
-## Dokumenttien ja kansioiden muut tiedot 
+## Dokumenttien ja kansioiden muut tiedot
 
 **Muuokkaa** -tilassa on mahdollista antaa myös muita sisältöön liittyviä tietoja.
 
@@ -262,7 +264,7 @@ Ruudulla on viisi __"välilehden"__ näköistä osioita, joista avautuu kyseisee
 * __Kategorisointi__
 
 	- Voidaan antaa sisällölle joitain avainsanoja, jotka ovat hyödyllisiä esim. haettaessa tietyntyyppisiä dokumentteja **Haku**-toiminnolla.
-	- Sitä voidaan myös käyttää ns. älykansioissa hyödyksi, jolloin saadaan kaikki samantyyppiset dokumentit koottua !''loogiseen kansioon!'' vaikka ne fyysisesti olisivatkin hajallaan ympäri sisältörakennetta.
+	- Sitä voidaan myös käyttää ns. älykansioissa hyödyksi, jolloin saadaan kaikki samantyyppiset dokumentit koottua __"loogiseen kansioon"__ vaikka ne fyysisesti olisivatkin hajallaan ympäri sisältörakennetta.
 
 * __Päivät__
 
@@ -272,7 +274,7 @@ Ruudulla on viisi __"välilehden"__ näköistä osioita, joista avautuu kyseisee
 * __Omistaja__ - _tärkeä_
 
 	- Täällä voidaan käydä vaihtamassa dokumentin omistaja- tai tekijä toiseksi.
-	- Esim. tilanteessa jossa vastuu dokumentin tai kansion sisällöstä siirretään toiselle henkilölle, kts. [wiki:KansionTekeminen tekijän muuttaminen]
+	- Esim. tilanteessa jossa vastuu dokumentin tai kansion sisällöstä siirretään toiselle henkilölle, kts. [tekijän muuttaminen](kansiot/#kansion-tekijan-muuttaminen).
 
 * __Asetukset__
 
@@ -281,4 +283,3 @@ Ruudulla on viisi __"välilehden"__ näköistä osioita, joista avautuu kyseisee
 ![Image](kuvat/kuva-125.png)
 
 ----
-
