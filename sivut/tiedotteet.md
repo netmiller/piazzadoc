@@ -1,5 +1,12 @@
 # Tiedotteet
 
+!!! tip "12.11.2016 [Netmiller, Esa Laitila]"
+	__Linkkien toiminta Piazzalla.__
+	Mikäli ___Sivu-tyyppisissä___ dokumenteissa on käytetty linkkejä toiseen dokumenttiin,
+	ja niiden toiminnassa on ongelmia, niin varmista että linkit on tehty
+	__sisäisinä linkkeinä__.  Ulkoisia linkkejä käytetään vain kun tehdään viittaus/linkki
+	johonkin ulkopuoliseen sivustoon (esim. KELA, FIMEA, tms).
+
 !!! warning "1.11.2016 [Netmiller, Esa Laitila]"
 	Piazzan tekninen ylläpito ja kehitys on siirtynyt Netmillerin vastuulle.
 	Tässä vaiheessa ei varsinaisen Piazzan toimintoihin ole tehty vielä muutoksia tai versiopäivityksiä, mutta kehitystä jatketaan
