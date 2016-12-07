@@ -23,10 +23,3 @@ Lue [Mikä on Piazza-dokumentointi](piazza_yleista.md).
 
 ----
 
-## Ylläpitovastuun siirto 1.11.2016
-
-!!! warning "1.11.2016 [Netmiller]"
-	Piazzan tekninen ylläpito ja kehitys on siirtynyt __Netmillerin vastuulle.__<br>
-	Tässä vaiheessa ei varsinaisen Piazzan toimintoihin ole tehty vielä muutoksia tai versiopäivityksiä, mutta kehitystä jatketaan
-	kun varmistetaan että tämä "ylimenovaihe" toimii moitteetta.<br>
-	![image](kuvat/dancing2.png)
