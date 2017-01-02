@@ -52,9 +52,15 @@ Virtuaalipalvelimet pyörivät moderneissa laitesaleissa Helsingin Pitäjänmäe
 Laitetilat täyttävät Viestintäviraston vaatimukset A-luokan laitetiloille (THK 48/2003, Tärkeät tilat).<br>
 [Lisätietoa täältä](https://www.zoner.fi/tietoa-zonerin-laitetiloista/)
 
+----
 
 ### Järjestelmän varmistaminen
 
 Palvelun sisältö varmistetaan automaattisesti joka yö erilliselle varmistuskoneelle.
+
+!!! warning "2.11.2017 [Netmiller, Esa Laitila]"
+  Piazza-tietokannan varmistuksia säilytetään 30pv (juoksevasti taaksepäin) ja tuona aikana on mahdollista palauttaa tietoja mikäli jotain kadonnut tai on joku muu poikkeustilanne.
+
+  Tässä tapauksessa ottakaa yhteyttä Piazzan tekniseen tukeen, niin selvitetään mitä voidaan tehdä.
 
 ----
