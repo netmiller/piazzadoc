@@ -1,5 +1,9 @@
 # Tiedotteet
 
+!!! warning "2.1.2017 [Netmiller, Esa Laitila]"
+    __Tarkennus varmistuksiin__. Piazza-tietokannan varmistuksia säilytetään 30pv (juoksevasti taaksepäin) ja tuona aikana on mahdollista palauttaa tietoja mikäli jotain kadonnut tai on joku muu poikkeustilanne.<br>
+    Tässä tapauksessa ottakaa yhteyttä Piazzan tekniseen tukeen, niin selvitetään mitä voidaan tehdä.
+
 !!! tip "12.11.2016 [Netmiller, Esa Laitila]"
 	__Linkkien toiminta Piazzalla.__
 	Mikäli ___Sivu-tyyppisissä___ dokumenteissa on käytetty linkkejä toiseen dokumenttiin,
