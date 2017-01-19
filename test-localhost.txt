@@ -1,0 +1,5 @@
+
+Omalla koneella voidaan testata paikallisesti komennolla : mkdocs serve
+
+ja selaimella osoitteesta : http://127.0.0.1:8000
+näkee miltä näyttää
