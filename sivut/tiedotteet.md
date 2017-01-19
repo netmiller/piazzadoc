@@ -1,5 +1,10 @@
 # Tiedotteet
 
+!!! warning "19.1.2017 [Netmiller, Esa Laitila]"
+    __Lyhyt huoltokatko su 22.1.2016 klo 17:00__.
+   Piazza-tietokannan huoltamista varten tarvitaan pieni katkos käyttöön.
+   Käyttökatko on suunniteltu su 22.1 klo 17:00 ja kestää noin tunnin. 
+
 !!! warning "2.1.2017 [Netmiller, Esa Laitila]"
     __Tarkennus varmistuksiin__. Piazza-tietokannan varmistuksia säilytetään 30pv (juoksevasti taaksepäin) ja tuona aikana on mahdollista palauttaa tietoja mikäli jotain kadonnut tai on joku muu poikkeustilanne.<br>
     Tässä tapauksessa ottakaa yhteyttä Piazzan tekniseen tukeen, niin selvitetään mitä voidaan tehdä.
