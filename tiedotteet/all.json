@@ -2,7 +2,7 @@
     {
         "pvm" : "19.1.2017",
         "tekija" : "esa.laitila@netmiller.fi",
-        "warn" : true,
+        "warn" : false,
         "viesti" : "<p><strong>Piazzan huoltokatko<br>su 22.1 klo 17:00 ~ 18:00</strong><br/><span>Piazzan tietokannan siivousta ja huoltoa; katko kestää noin tunnin.</span></p>"
     },
     {
