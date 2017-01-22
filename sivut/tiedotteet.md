@@ -1,5 +1,13 @@
 # Tiedotteet
 
+!!! tip "22.1.2017 klo 18:05 [Netmiller, Esa Laitila]"
+    __Tietokannan korjaukset tehty__.
+* Joissain tapauksissa on ollut ongelmana se ettei kaikkia kommentteja voitu poistaa mikäli oli tarvetta
+* Piazza antoi jonkun "epämääräisen" virheilmoituksen
+* Tietokannan korjausajolla näitä on pyritty korjaamaan 
+* __vastaavia saattaa vielä löytyä, ja niistä kannattaa heti ilmoittaa__
+* huoltoajo on tehty varmuuden vuoksi vain niille apteekeille joilla ongelmaa esiintyi
+
 !!! warning "19.1.2017 [Netmiller, Esa Laitila]"
     __Lyhyt huoltokatko su 22.1.2016 klo 17:00__.
 * Piazza-tietokannan huoltamista varten tarvitaan pieni katkos käyttöön.
