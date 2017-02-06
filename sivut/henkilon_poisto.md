@@ -1,6 +1,6 @@
 # Talosta poistuneet henkilöt (käytännöt)
 
-Tämä ohje koskee pääsääntöisesti vain Sivuston ylläpitäjä-roolissa olevia.
+* tämä ohje koskee pääsääntöisesti vain Sivuston ylläpitäjä-roolissa olevia.
 
 ## Taustaa
 
@@ -14,11 +14,28 @@ Ohjelmistossa “omistaja”-tietoa käytetään hyväksi monessa kohtaa, ja sen
 
 Aikaisemmin kun henkilö lähti talosta, niin hänen omistamansa sivut/dokumentit tuli siirtää jollekulle toiselle, jotta niiden muokkaaminen oli edelleen mahdollista.
 
-23.9.2013 tehdyn versiopäivityksen jälkeen tämä ei ole enää tarpeellista, sillä jokainen Editori-roolin käyttäjä voi muokata toisen henkilön tuottamia dokumentteja ja sivuja.
+Nykyisessä ohjelmistoversiossa tämä ei ole enää tarpeellista, sillä jokainen Editori-roolin käyttäjä voi muokata toisen henkilön tuottamia dokumentteja ja sivuja.
+
+````
+Normaalitilanteessa henkilö voidaan poistaa kokonaan mikäli hän lähtee talosta.
+````
+
+Tarvittaessa henkilön tunnus/nimi voidaan toki jättää käyttäjäluetteloon, 
+ja jos __poistetaan kaikki "ruksitukset"__ niin hän ei enää pääse kirjautumaan järjestelmään.
+
+Eli tietoturvan ja tietosuojan kannalta on riittävä toimenpide __poistaa__ ruksitukset eli __kaikki oikeudet__.
+
+Poistetun henkilön tekemät kommentit jäävät jokaisen dokumentin yhteyteen kaikissa tapauksissa.
 
 Dokumentin omistaja ja tekijä voidaan kuitenkin edelleen tarvittaessa siirtää toiselle käyttäjälle.
 
-----
+````
+Yhteenvetona voidaan sanoa että on jokaisen apteekin omassa harkinnassa
+kumpaa poistotapaa haluaa käyttää.
+Ts. kokonaan poistaminen vs. oikeuksien poistaminen. 
+
+````
+
 
 ## Siirtäminen dokumentti kerrallaan
 
