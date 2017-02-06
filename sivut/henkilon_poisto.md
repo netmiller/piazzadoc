@@ -16,7 +16,7 @@ Aikaisemmin kun henkilö lähti talosta, niin hänen omistamansa sivut/dokumenti
 
 Nykyisessä ohjelmistoversiossa tämä ei ole enää tarpeellista, sillä jokainen Editori-roolin käyttäjä voi muokata toisen henkilön tuottamia dokumentteja ja sivuja.
 
-<pre>
+<pre style="border:1px solid #CCC; padding: 10px; background: #EEE;">
 Normaalitilanteessa henkilö voidaan poistaa kokonaan mikäli hän lähtee talosta.
 </pre>
 
@@ -29,12 +29,9 @@ Poistetun henkilön tekemät kommentit jäävät jokaisen dokumentin yhteyteen k
 
 Dokumentin omistaja ja tekijä voidaan kuitenkin edelleen tarvittaessa siirtää toiselle käyttäjälle.
 
-````
-Yhteenvetona voidaan sanoa että on jokaisen apteekin omassa harkinnassa
-kumpaa poistotapaa haluaa käyttää.
-Ts. kokonaan poistaminen vs. oikeuksien poistaminen. 
 
-````
+Yhteenvetona voidaan sanoa että on jokaisen apteekin omassa harkinnassa kumpaa poistotapaa haluaa käyttää.
+Ts. kokonaan poistaminen vs. oikeuksien poistaminen. 
 
 
 ## Siirtäminen dokumentti kerrallaan
