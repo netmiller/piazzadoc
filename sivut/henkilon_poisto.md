@@ -16,9 +16,9 @@ Aikaisemmin kun henkilö lähti talosta, niin hänen omistamansa sivut/dokumenti
 
 Nykyisessä ohjelmistoversiossa tämä ei ole enää tarpeellista, sillä jokainen Editori-roolin käyttäjä voi muokata toisen henkilön tuottamia dokumentteja ja sivuja.
 
-````
+<pre>
 Normaalitilanteessa henkilö voidaan poistaa kokonaan mikäli hän lähtee talosta.
-````
+</pre>
 
 Tarvittaessa henkilön tunnus/nimi voidaan toki jättää käyttäjäluetteloon, 
 ja jos __poistetaan kaikki "ruksitukset"__ niin hän ei enää pääse kirjautumaan järjestelmään.
