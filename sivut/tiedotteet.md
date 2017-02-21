@@ -1,5 +1,11 @@
 # Tiedotteet
 
+!!! warning "21.2.2017 [Netmiller, Esa Laitila]"
+    __Piazzan huoltokatko su 26.2.2016 klo 13 ~18__.
+* Piazza-tietokannan päivitystä varten tarvitaan huoltokatko.
+* Käyttökatko on suunniteltu su 26.2 klo 13:00 ja kestää max. 5 tuntia.
+* Tässä on tavoite päivittää SSL-sertifikaatti mukaan, ja samalla tehdään määritykset jolla saadaan suojattu SSL-yhteys päälle automaattisesti
+
 !!! tip "22.1.2017 klo 18:05 [Netmiller, Esa Laitila]"
     __Tietokannan korjaukset tehty__.
 * Joissain tapauksissa on ollut ongelmana se ettei kaikkia kommentteja voitu poistaa mikäli oli tarvetta
