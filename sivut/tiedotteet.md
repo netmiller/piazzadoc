@@ -2,9 +2,14 @@
 
 !!! tip "26.2.2017 klo 18:15 [Netmiller, Esa Laitila]"
     __Palvelimen päivitykset/muutokset tehty__.
-* tarkemmat tiedot suojatun SSL-yhteyden käyttöönotosta tulevat tämän illan aikana
+* palvelimelle on asennettu SSL-sertifikaatti, jolla voidaan ottaa käyttöön __suojattu https__ yhteys
 * toistaiseksi kaikki toimii vanhalla yhteyskäytännöllä, ja tiedotan muutoksista per apteekki
 * tavoitteena on __porrastaa käyttöönottoa__ hieman, niin saadaan muutokset paremmin hallintaan
+* lähetän jokaisen apteekin yhteyshenkilöille tietoa milloin käännän ao.apteekin yhteyden suojattuun "putkeen"
+* tavoitteena on saada kaikki muutettua tulevan ja seuraavan viikon aikana (vkot 9 ~ 10)
+* URL-osoitteisiin ei pitäisi tulla muutoksia, vaan serveri ohjaa yhteydet automaattisesti oikeaan yhteyskäytäntöön
+* __mahdollisia vikatilanteita__ saattaa jossain erikoistapauksessa löytyä, ja ne pyritään korjaamaan nopeasti
+* joten laittakaa ilmoitusta minulle heti jos huomaatte jotain joka voisi liittyä tähän muutokseen
 
 !!! warning "21.2.2017 [Netmiller, Esa Laitila]"
     __Piazzan huoltokatko su 26.2.2016 klo 13 ~18__.
