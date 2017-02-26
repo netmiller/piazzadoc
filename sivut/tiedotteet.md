@@ -1,5 +1,11 @@
 # Tiedotteet
 
+!!! tip "26.2.2017 klo 18:15 [Netmiller, Esa Laitila]"
+    __Palvelimen päivitykset/muutokset tehty__.
+* tarkemmat tiedot suojatun SSL-yhteyden käyttöönotosta tulevat tämä illan aikana
+* toistaiseksi kaikki toimii vanhalla yhteyskäytännöllä, ja tiedotan muutoksista per apteekki
+* tavoitteena on __porrastaa käyttöönottoa__ hieman, niin saadaan muutokset paremmin hallintaan
+
 !!! warning "21.2.2017 [Netmiller, Esa Laitila]"
     __Piazzan huoltokatko su 26.2.2016 klo 13 ~18__.
 * Piazza-tietokannan päivitystä varten tarvitaan huoltokatko.
