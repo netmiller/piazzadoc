@@ -1,5 +1,19 @@
 # Tiedotteet
 
+!!! warning "10.3.2017 klo 10:30 [Netmiller, Esa Laitila]"
+    __Piazzan suojattu SSL-yhteys ja URL-osoitteet__.
+Pienennä yllätyksenä tuli tänään esiin että URL-osoite muodossa: 
+
+* https://piazzaonward.fi/<apteekinnimi> ei toimi oikein vaan __antaa varoituksen__
+
+Tällä hetkellä toimivat kirjautumisosoitteet ovat :
+
+* __http://piazzaonward.fi/<apteekinnimi>__
+* __https://www.piazzaonward.fi/<apteekinnimi>__
+
+Ongelma pyritään korjaamaan tulevan viikonlopun aikana, ja siihen asti em.toimivat osoitteet pitäisi olla kunnossa.
+
+
 !!! tip "26.2.2017 klo 18:15 [Netmiller, Esa Laitila]"
     __Palvelimen päivitykset/muutokset tehty__.
 * palvelimelle on asennettu SSL-sertifikaatti, jolla voidaan ottaa käyttöön __suojattu https__ yhteys
