@@ -2,7 +2,8 @@
 
 !!! warning "10.3.2017 klo 10:30 [Netmiller, Esa Laitila]"
     __Piazzan suojattu SSL-yhteys ja URL-osoitteet__.
-Pienennä yllätyksenä tuli tänään esiin että URL-osoite muodossa: 
+    
+Pienenä yllätyksenä tuli tänään esiin että URL-osoite muodossa: 
 
 * https://piazzaonward.fi/<apteekinnimi> ei toimi oikein vaan __antaa varoituksen__
 
