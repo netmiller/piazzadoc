@@ -5,9 +5,9 @@
 
 ✅  Toimivat kirjautumisosoitteet ovat :
 
-* http://piazzaonward.fi/<apteekinnimi\>
-* https://piazzaonward.fi/<apteekinnimi\>
-* https://www.piazzaonward.fi/<apteekinnimi\>
+* __http://piazzaonward.fi/__<apteekinnimi\>
+* __https://piazzaonward.fi/__<apteekinnimi\>
+* __https://www.piazzaonward.fi/__<apteekinnimi\>
 
 jotka kaikki ohjataan automaattisesti osoitteeseen : __https://www.piazzaonward.fi/<apteekinnimi>__ joten ei ole väliä mitä noista ym.osoitemuodoista käyttää.
 
