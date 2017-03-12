@@ -1,8 +1,21 @@
 # Tiedotteet
 
+!!! tip "12.3.2017 klo 17:15 [Netmiller, Esa Laitila]"
+    __Piazzan suojattu yhteys korjattu__.
+
+✅  Toimivat kirjautumisosoitteet ovat :
+
+* http:///piazzaonward.fi/<apteekinnimi\>
+* https://piazzaonward.fi/<apteekinnimi\>
+* https://www.piazzaonward.fi/<apteekinnimi\>
+
+jotka kaikki ohjataan automaattisesti osoitteeseen : __https://www.piazzaonward.fi/<apteekinnimi>__ joten ei ole väliä mitä noista ym.osoitemuodoista käyttää.
+
+Mikäli huomaat jonkun URL-osoitteen joka toimii mielestäsi virheellisesti, niin ilmoitus minulle ja katsotaan voidaanko sille jotain tehdä.
+
 !!! warning "10.3.2017 klo 10:30 [Netmiller, Esa Laitila]"
     __Piazzan suojattu SSL-yhteys ja URL-osoitteet__.
-    
+
 Pienenä yllätyksenä tuli tänään esiin että URL-osoite muodossa: 
 
 * https://piazzaonward.fi/<apteekinnimi> ei toimi oikein vaan __antaa varoituksen__
