@@ -5,7 +5,7 @@
 
 ✅  Toimivat kirjautumisosoitteet ovat :
 
-* http:///piazzaonward.fi/<apteekinnimi\>
+* http://piazzaonward.fi/<apteekinnimi\>
 * https://piazzaonward.fi/<apteekinnimi\>
 * https://www.piazzaonward.fi/<apteekinnimi\>
 
