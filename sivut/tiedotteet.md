@@ -1,9 +1,18 @@
 # Tiedotteet
 
+!!! note "19.3.2017 [Netmiller, Esa Laitila]"
+	__Palveluntarjoajan huoltokatko to 23.3 klo 05.00 ~ 07:00__
+	
+	Piazzan palveluntarjoaja (Zoner Oy) tekee palvelinsalissaan omia huoltotoimiaan torstaina 23.3.2017, ja Piazza saattaa sen takia olla poissa käytöstä klo 05:00 ~07.00 välisenä aikana.
+
+	Mikäli kaikki menee ilman ongelmia, niin Piazza on sen jälkeen taas päällä normaalisti.<br>
+	Lisätietoja löytyy: <http://tuki.zoner.fi>  (tiedote 14.3.2017)
+
+
 !!! tip "12.3.2017 klo 17:15 [Netmiller, Esa Laitila]"
     __Piazzan suojattu yhteys korjattu__.
 
-✅  Toimivat kirjautumisosoitteet ovat :
+Toimivat kirjautumisosoitteet ovat :
 
 * __http://piazzaonward.fi/__<apteekinnimi\>
 * __https://piazzaonward.fi/__<apteekinnimi\>
