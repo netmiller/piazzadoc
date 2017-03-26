@@ -1,13 +1,14 @@
 # Tiedotteet
 
-!!! note "19.3.2017 [Netmiller, Esa Laitila]"
-	__Palveluntarjoajan huoltokatko to 23.3 klo 05.00 ~ 07:00__
+!!! tip "26.3.2017 [Netmiller, Esa Laitila]"
+	__Korjattu tiedostojen lataukseen liittyvä ongelma__
 	
-	Piazzan palveluntarjoaja (Zoner Oy) tekee palvelinsalissaan omia huoltotoimiaan torstaina 23.3.2017, ja Piazza saattaa sen takia olla poissa käytöstä klo 05:00 ~07.00 välisenä aikana.
+Aika ajoin on kiusannut liitetiedostojen (Excel,Word,tms.) lataamiseen liittyvä ongelma, joka onkin antanut __vanhemman version__ ao.liitetiedostosta.
+Ongelma littyy selaimen tapaan käyttää välimuistia, ja on vaihdellut riippuen käytetystä selaimesta. Yleensä sitä on yritetty korjata selaimen välimuistin tyhjentämisellä.
 
-	Mikäli kaikki menee ilman ongelmia, niin Piazza on sen jälkeen taas päällä normaalisti.<br>
-	Lisätietoja löytyy: <http://tuki.zoner.fi>  (tiedote 14.3.2017)
-
+Tänään on tehty www-palvelimelle uudentyyppinen korjaus jossa tämä ongelma pitäisi nyt __korjaantua selaimesta riippumatta.__
+Ilmoitelkaa minulle mikäli ongelma vieläkin _"kummittelee"_, mutta olen kyllä toiveikas että korjaus auttaa tähän asiaan.
+    
 
 !!! tip "12.3.2017 klo 17:15 [Netmiller, Esa Laitila]"
     __Piazzan suojattu yhteys korjattu__.
