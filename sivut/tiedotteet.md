@@ -1,14 +1,26 @@
 # Tiedotteet
 
+!!! note "18.4.2017 [Netmiller, Esa Laitila]"
+ 	Viikoilla 16 ja 17 testataan ja pilotoidaan uutta Piazza-versiota, ja näillä näkymin vkolla 17 aletaan
+	suunnittelemaan millä aikataululla varsinaiset yliheitot uuteen versioon tehdään.
+
+Sen osalta voitte toki esittää toiveita jos on jotain erityistä tai kiireellistä tietyillä viikoilla.
+Muuten teemme omia ehdotuksia aikatauluiksi, ja tavoitteena on jakaa niitä toukokuun ajalle sopivasti
+että on aikaa hieman varmistella mitä mahdollisia asioita tulee vielä esiin.
+
+Laitan pientä ohjeistusta mitkä asiat uudessa versiossa tulevat muuttumaan, ja ohje löytyy linkistä:<br>
+[muutokset versiossa 4.3](muutokset_v43).
+
+
 !!! tip "26.3.2017 [Netmiller, Esa Laitila]"
 	__Korjattu tiedostojen lataukseen liittyvä ongelma__
-	
+
 Aika ajoin on kiusannut liitetiedostojen (Excel,Word,tms.) lataamiseen liittyvä ongelma, joka onkin antanut __vanhemman version__ ao.liitetiedostosta.
 Ongelma littyy selaimen tapaan käyttää välimuistia, ja on vaihdellut riippuen käytetystä selaimesta. Yleensä sitä on yritetty korjata selaimen välimuistin tyhjentämisellä.
 
 Tänään on tehty www-palvelimelle uudentyyppinen korjaus jossa tämä ongelma pitäisi nyt __korjaantua selaimesta riippumatta.__
 Ilmoitelkaa minulle mikäli ongelma vieläkin _"kummittelee"_, mutta olen kyllä toiveikas että korjaus auttaa tähän asiaan.
-    
+
 
 !!! tip "12.3.2017 klo 17:15 [Netmiller, Esa Laitila]"
     __Piazzan suojattu yhteys korjattu__.
@@ -26,7 +38,7 @@ Mikäli huomaat jonkun URL-osoitteen joka toimii mielestäsi virheellisesti, nii
 !!! warning "10.3.2017 klo 10:30 [Netmiller, Esa Laitila]"
     __Piazzan suojattu SSL-yhteys ja URL-osoitteet__.
 
-Pienenä yllätyksenä tuli tänään esiin että URL-osoite muodossa: 
+Pienenä yllätyksenä tuli tänään esiin että URL-osoite muodossa:
 
 * https://piazzaonward.fi/<apteekinnimi> ei toimi oikein vaan __antaa varoituksen__
 
@@ -59,14 +71,14 @@ Ongelma pyritään korjaamaan tulevan viikonlopun aikana, ja siihen asti em.toim
     __Tietokannan korjaukset tehty__.
 * Joissain tapauksissa on ollut ongelmana se ettei kaikkia kommentteja voitu poistaa mikäli oli tarvetta
 * Piazza antoi jonkun "epämääräisen" virheilmoituksen
-* Tietokannan korjausajolla näitä on pyritty korjaamaan 
+* Tietokannan korjausajolla näitä on pyritty korjaamaan
 * __vastaavia saattaa vielä löytyä, ja niistä kannattaa heti ilmoittaa__
 * huoltoajo on tehty varmuuden vuoksi vain niille apteekeille joilla ongelmaa esiintyi
 
 !!! warning "19.1.2017 [Netmiller, Esa Laitila]"
     __Lyhyt huoltokatko su 22.1.2016 klo 17:00__.
 * Piazza-tietokannan huoltamista varten tarvitaan pieni katkos käyttöön.
-* Käyttökatko on suunniteltu su 22.1 klo 17:00 ja kestää noin tunnin. 
+* Käyttökatko on suunniteltu su 22.1 klo 17:00 ja kestää noin tunnin.
 
 !!! tip "2.1.2017 [Netmiller, Esa Laitila]"
     __Tarkennus varmistuksiin__.
