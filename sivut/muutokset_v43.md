@@ -35,8 +35,8 @@ Seuraavassa hieman ohjeistusta mitkä asiat tulevat muuttumaan  :
 
 * __Lukukuittaukset__
 
-    - lukukuittauksille on oma välilehti sivun alareunassa, jossa jokainen voi kuitata dokumentin luetuksi tai poistaa lukukuittauksen
-    - ylläpitäjä-oikeuksilla pystyy myös poistamaan kaikki lukukuittaukset mikäli dokumentti muuttuu niin oleellisesti että on syytä kaikkien lukea se uudelleen
+    - lukukuittauksille on oma välilehti sivun alareunassa, jossa jokainen voi kuitata dokumentin luetuksi tai poistaa oman lukukuittauksen
+    - ylläpitäjä-oikeuksilla pystyy myös poistamaan kaikki lukukuittaukset, kun dokumenttia päivitetään ja kaikkien on luettava ja kuitattava päivitetty versio
     - myös lukukuittauksiin pääsee yläpalkin __pikatoiminnolla__ nopeammin
 
     ![Image](kuvat/kuva-151.png)
@@ -54,7 +54,7 @@ Seuraavassa hieman ohjeistusta mitkä asiat tulevat muuttumaan  :
 
 	- sivu/dokumenttikohtaisiin toimintoihin on lisätty uusi toiminto, jolla voi tulostaa sivun __pdf-muotoon__
 	- se on kätevämpi monessa asiassa, ja toimii myös paremmin jos tulostaa sen paperille
-    - __office-dokumentteja__ (=liitetiedot) ei voi toistaiseksi tulostaa pdf-muotoon elleivät ne ole jo valmiiksi siinä muodossa
+    - __office-dokumentteja__ (Word-, Excel-, PowerPoint-tiedostoja) ei voi toistaiseksi tulostaa pdf-muotoon elleivät ne ole jo valmiiksi siinä muodossa
     - mutta tämä ominaisuus on työlistalla ja toivottavasti saadaan jatkossa toteutettua
 
     ![Image](kuvat/kuva-152.png)
