@@ -43,8 +43,8 @@ Seuraavassa hieman ohjeistusta mitkä asiat tulevat muuttumaan  :
 
 * __Vanhojen lukukuittaukset siirto__
 
-    - vanhoja lukukuittauksia ei pystytä siirtämään ohjelmallisesti uuteen systeemiin, koska ne ovat varsinaisten kommenttien joukossa tesktimuodossa
-    - uudessa ohjelmaversiossa ehdotus on, että jokainen käy ruksaamassa omat lukukuittauksensa uudella systeemillä
+    - vanhoja lukukuittauksia ei pystytä siirtämään ohjelmallisesti uuteen systeemiin, koska ne ovat varsinaisten kommenttien joukossa tekstimuodossa
+    - uudessa ohjelmaversiossa ehdotus on, että jokainen käy ruksaamassa omat lukukuittauksensa uudelleen __(Lukukuittaukset-välilehden kautta)__
     - sen jälkeen hän voi myös poistaa oman kommenttipohjaisen kuittauksensa
     - tässä on hieman käsityötä, mutta kun tämä on saatu korjattua, niin jatko menee selkeämmin koska lukukuittaukset ovat erillään "oikeista" kommenteista
 
