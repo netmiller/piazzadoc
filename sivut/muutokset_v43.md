@@ -66,6 +66,14 @@ Seuraavassa hieman ohjeistusta mitkä asiat tulevat muuttumaan  :
 
     ![Image](kuvat/kuva-152.png)
 
+    - PDF:n käsittely on selaimesta riippuen hieman erilaista
+    - yleensä Firefox-selain avaa valmiit pdf-tiedostot suoraan omaan välilehteen selaimen sisällä
+    - muut selaimet normaalisti kysyvät mitä pdf-tiedostolle tehdään (talletetaan vaiko avataan ruudulle)
+    - ruudulle avaaminen riippuu myös siitä onko sopivaa pdf-katseluohjelmaa asennettuna koneelle (paitsi Firefox joka ei vaadi mitään erityistä lisämodulia, ja on odotettavissa että muutkin selaimet aikanaan seuraavat Firefoxin käytäntöä)
+    - Windows 10:n Edge-selain kysyy miten pdf käsitellään (käsittelyä koskevat kysymykset tulevat ruudun alareunaan josta se ei aina heti satu silmiin, joten niiden kanssa saa olla tarkkana)
+    - Safari-selain normaalisti tekee niin että se lataa pdf-tiedoston ilman huomautuksia omalle koneelle (kansioon nimeltä Downloads tai vast.) josta se täytyy käydä erikseen klikkaamassa auki/katseluun
+    - muutkin selaimet saattavat tehdä samoin, riippuen käytössä olevasta versiosta 
+
 ----
 
 * __Käyttöoikeudet__
