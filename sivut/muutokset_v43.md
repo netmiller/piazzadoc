@@ -41,6 +41,15 @@ Seuraavassa hieman ohjeistusta mitkä asiat tulevat muuttumaan  :
 
 ----
 
+* __Vanhojen lukukuittaukset siirto__
+
+    - vanhoja lukukuittauksia ei pystytä siirtämään ohjelmallisesti uuteen systeemiin, koska ne ovat varsinaisten kommenttien joukossa tesktimuodossa
+    - uudessa ohjelmaversiossa ehdotus on, että jokainen käy ruksaamassa omat lukukuittauksensa uudella systeemillä
+    - sen jälkeen hän voi myös poistaa oman kommenttipohjaisen kuittauksensa
+    - tässä on hieman käsityötä, mutta kun tämä on saatu korjattua, niin jatko menee selkeämmin koska lukukuittaukset ovat erillään "oikeista" kommenteista
+
+----
+
 * __Historia-näkymä__
 
 	- vanha historia-näkymä on säilynyt ennallaan, mutta se on siirretty vaan sellaisenaan sivun alareunaan omalle välilehdelleen
