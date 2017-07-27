@@ -1,14 +1,28 @@
 # Tiedotteet
 
-!!! note "18.4.2017 [Netmiller, Esa Laitila]"
- 	Viikoilla 16 ja 17 testataan ja pilotoidaan uutta Piazza-versiota, ja näillä näkymin vkolla 17 aletaan
-	suunnittelemaan millä aikataululla varsinaiset yliheitot uuteen versioon tehdään.
 
-Sen osalta voitte toki esittää toiveita jos on jotain erityistä tai kiireellistä tietyillä viikoilla.
-Muuten teemme omia ehdotuksia aikatauluiksi, ja tavoitteena on jakaa niitä toukokuun ajalle sopivasti
-että on aikaa hieman varmistella mitä mahdollisia asioita tulee vielä esiin.
+!!! warning "27.7.2017 klo 20:00 [Netmiller, Esa Laitila]"
+    __Uusien käyttäjätunnusten avaaminen__.
 
-Laitan pientä ohjeistusta mitkä asiat uudessa versiossa tulevat muuttumaan, ja ohje löytyy linkistä:<br>
+Piazzan uudessa versiossa näyttäisi olevan ohjelmavirhe, joka aiheuttaa sen että 
+__uuden käyttäjätunnuksen avaaminen__ lähettää linkin käyttäjän sähköpostiin ja linkin avulla
+hänen pitäisi pystyä kirjautumaan sisään ensimmäisen kerran.
+
+Mutta lähetetty linkki __ei mene oikeaan ruutuun/toimintoon__, vaan suoraan kirjautumissivustolle.
+
+Ongelma korjataan kuntoon, mutta toistaiseksi voitte laittaa uusien tunnusten avaamisen
+suoraan minulle tai Mirjalle, niin teemme sen kunnes asiaan on korjaus olemassa.
+
+
+!!! note "23.7.2017 [Netmiller, Esa Laitila]"
+ 	__Korjattu ongelma joka aiheutti sen että vähänkin isommat liitetiedostot/dokumentit eivät 
+ 	latautuneet Piazzalle vaan antoivat virhekoodin 413.__<br>
+Nyt tuo on korjattu kuten aikaisemmassakin versiossa jossa liitetiedostojen max.koko oli 50 Mt. Voitte ilmoittaa minulle mikäli se ei riitä niin voidaan katsoa onko tarvetta vieläkin isommalle ylärajalle.
+
+
+!!! note "10.6.2017 [Netmiller, Esa Laitila]"
+ 	__Vkolla 22 saatiin kaikkien Piazza-asiakkaiden versiovaihdot valmiiksi.__<br>
+Uuden version myötä tulleet muutokset on kuvattu linkissä:<br>
 [muutokset versiossa 4.3](muutokset_v43).
 
 

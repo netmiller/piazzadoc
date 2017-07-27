@@ -2,13 +2,13 @@
 # Piazzan ohjelmistoversio 4.3
 
 !!! note "18.4.2017 [Netmiller, Esa Laitila]"
-	Piazzan takana olevan Plone-ohjelmiston versio päivitetään kevään 2017 aikana
+	Piazzan takana olevan Plone-ohjelmiston versio on päivitetty kevään 2017 aikana
 	pari pykälää ylemmäksi, ja sillä saamme myös kehitystä varten hieman enemmän eväitä
 	joilla voidaan jatkossa paremmin tehdä varsinaista käyttäjille näkyvää kehittämistä.
 
 ----
 
-Seuraavassa hieman ohjeistusta mitkä asiat tulevat muuttumaan  :
+Seuraavassa hieman ohjeistusta mitkä asiat ovat muuttuneet (ainakin tärkeimmät muutokset)  :
 
 * __Yläpalkki__
 
