@@ -10,8 +10,7 @@ hänen pitäisi pystyä kirjautumaan sisään ensimmäisen kerran.
 
 Mutta lähetetty linkki __ei mene oikeaan ruutuun/toimintoon__, vaan suoraan kirjautumissivustolle.
 
-Ongelma korjataan kuntoon, mutta toistaiseksi voitte laittaa uusien tunnusten avaamisen
-suoraan minulle tai Mirjalle, niin teemme sen kunnes asiaan on korjaus olemassa.
+Ongelma korjataan kuntoon, mutta toistaiseksi kannattaa antaa uudelle käyttäjälle joku __tilapäinen salasana__, ja lähettää tieto siitä muita kanavia käyttäen ja __pyytää käyttäjää vaihtamaan salasanan__ heti kun pääsee kirjautumaan sisään ensimmäisen kerran.
 
 
 !!! note "23.7.2017 [Netmiller, Esa Laitila]"
