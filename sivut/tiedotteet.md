@@ -11,8 +11,7 @@ Nyt nuo vanhat sivustot ovat toivon mukaan palvelleet tehtävänsä, ja niiden _
     __Uusien käyttäjätunnusten avaaminen__.
 
 Piazzan uudessa versiossa näyttäisi olevan ohjelmavirhe, joka aiheuttaa sen että 
-__uuden käyttäjätunnuksen avaaminen__ lähettää linkin käyttäjän sähköpostiin ja linkin avulla
-hänen pitäisi pystyä kirjautumaan sisään ensimmäisen kerran.
+__uuden käyttäjätunnuksen avaaminen__ toimii muuten OK, mutta siellä on mahdollista lähettää __linkki/vahvistusviesti__ jonka kautta hänen pitäisi pystyä kirjautumaan sisään ensimmäisen kerran.
 
 Mutta lähetetty linkki __ei mene oikeaan ruutuun/toimintoon__, vaan suoraan kirjautumissivustolle.
 
