@@ -1,6 +1,12 @@
 # Tiedotteet
 
 
+!!! note "4.8.2017 [Netmiller, Esa Laitila]"
+ 	__Vanhat Piazzasivustot ajetaan alas 31.8.2017__<br>
+Kevään versiovaihdossa jätettiin vanhat sivustot vielä __tarkistusmielessä__ paikalleen, vaikkakin kaikki muutokset on yliheitosta alkaen tehty uuden version sivustoihin. Vanhoihin tietoihin pääsi käsiksi mikäli haluttiin tarkistaa tai varmistaa että kaikki dokumentit ym. olivat siirtyneet uuteen.
+
+Nyt nuo vanhat sivustot ovat toivon mukaan palvelleet tehtävänsä, ja niiden __aktiivinen päälläolo päättyy 31.8.2017__.  Tiedot kyllä varmistetaan ja on tarvittaessa saatavilla, mutta uudet sivut ovat nyt toimineet hyvin, ja tuorein sisältö löytyy sieltä.
+
 !!! warning "27.7.2017 klo 20:00 [Netmiller, Esa Laitila]"
     __Uusien käyttäjätunnusten avaaminen__.
 
