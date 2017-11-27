@@ -1,6 +1,13 @@
 # Tiedotteet
 
 
+!!! note "27.11.2017 [Netmiller, Esa Laitila]"
+ 	__Office-2007/2013 dokumenteista__<br>
+Uudempien MS Office-ohjelmien tiedostoformaatit (__.docx, .xlsx, .pptx__) eivät aina käyttäydy oikein, mikäli niitä on otettu mukaan liitetiedostoina.
+
+Mikäli ongelmia noiden kanssa, niin täällä on muutamia ohjeita ja huomioita:<br>
+[Office 2007-2013 tiedostomuodot](office-tiedostot)
+
 !!! note "4.8.2017 [Netmiller, Esa Laitila]"
  	__Vanhat Piazzasivustot ajetaan alas 31.8.2017__<br>
 Kevään versiovaihdossa jätettiin vanhat sivustot vielä __tarkistusmielessä__ paikalleen, vaikkakin kaikki muutokset on yliheitosta alkaen tehty uuden version sivustoihin. Vanhoihin tietoihin pääsi käsiksi mikäli haluttiin tarkistaa tai varmistaa että kaikki dokumentit ym. olivat siirtyneet uuteen.
@@ -62,8 +69,7 @@ Pienenä yllätyksenä tuli tänään esiin että URL-osoite muodossa:
 
 Tällä hetkellä toimivat kirjautumisosoitteet ovat :
 
-* __http://piazzaonward.fi/<apteekinnimi>__
-* __https://www.piazzaonward.fi/<apteekinnimi>__
+* __http://v43.piazzaonward.fi/<apteekinnimi>__
 
 Ongelma pyritään korjaamaan tulevan viikonlopun aikana, ja siihen asti em.toimivat osoitteet pitäisi olla kunnossa.
 
