@@ -3,7 +3,7 @@
 
 ## Taustaa 
 
-Uudempien Office-tiedostojen __( .docx, .xlsx, .pptx )__ käyttäytyminen Piazzanliitetiedostoina
+Uudempien Office-tiedostojen __( .docx, .xlsx, .pptx )__ käyttäytyminen Piazzan liitetiedostoina
 on joskus hieman ongelmallista, verrattuna vanhempiin.
 
 Uudemmat tiedostomuodot ovat tulleet käyttöön __MsOffice 2017~2013__ versioiden myötä, ja ne tunnistaa
@@ -49,8 +49,8 @@ Nuo vanhemmat Office-formaatit ovat siinä mielessä “turvallisempia" että au
 
 Jos käytössä on jotain hyvin erikoisia muotoiluja, niin saattaa tulla eroavuutta mutta hyvin harvoin.
 
-    Tällä hetkellä ym. muutos on nopein korjaustapa, mutta sitä ei kannata tehdä paitsi silloin jos
-    käyttäytyy väärin; ts. näkyy muodossa Zip Archive tms.
+__Tällä hetkellä ym. muutos on nopein korjaustapa, mutta sitä ei kannata tehdä paitsi silloin jos
+käyttäytyy väärin; ts. näkyy muodossa Zip Archive tms.__
 
 ## Muuta
 
