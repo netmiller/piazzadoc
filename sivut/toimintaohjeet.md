@@ -50,20 +50,22 @@ Toimintaohjeet ja muut ohjeet ovat fyysisisesti ko. prosessin ohjekansiossa. Muu
 
 ### Toimintaohjeiden kuittaaminen
 
-Toimintaohjeiden kuittaus hoidetaan sähköisesti piazzalla seuraavan esimerkin mukaisesti:
+Toimintaohjeiden __kuittaus__ hoidetaan sähköisesti piazzalla seuraavan esimerkin mukaisesti:
 
-![Image](kuvat/dokumenttienlaatiminen.png)
+![Image](kuvat/kuva155.png)
 
+* kaikkien dokumenttien (sivudokumentit ja tiedostot) __alareunasta__ löytyy muutama välilehti,
+joista avataan __Lukukuittaukset__
+* toiminnolla __Kuittaa luetuksi__ voi jokainen hoitaa oman puumerkkinsä kuntoon, kun on ohjeeseen tutustunut
+* käytössä on myös toiminto __Poista oma lukukuittaus__ jolla toimen voi perua tarvittaessa
 
 Toimintaohjeen laatija seuraa, että kaikki ao. ovat käyneet tutustumassa ja kuittaamassa.
 
-Myös tulokkaat ja muut perehdytettävät käyvät kuittaamassa/kommentoimassa ohjeeseen tutustumisensa jälkeen.
-
-Kuittaukset näkyvät myös Uusimmat kommentit muiden kommenttien joukossa.
+Myös tulokkaat ja muut perehdytettävät käyvät kuittaamassa ohjeeseen tutustumisensa jälkeen.
 
 Kun ohjetta päivitetään ja siitä infotaan, poistetaan vanhat kuittaukset ja lisätään uusi tutustumispyyntö em. mukaisesti.
 
-Kommentteja voi poistaa piazzan ylläpitäjäoikeudet omaavat.
+Muiden kuin omia lukukuittauksia voi poistaa piazzan ylläpitäjäoikeudet omaavat.
 
 
 ### Toimintaohjeiden tarkistaminen 
