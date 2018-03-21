@@ -19,6 +19,6 @@ Tällä hetkellä ei ole käytössä muita kuin __TinyMCE__ editori.  Vanha __Ku
 
 TinyMCE-editorin työkalupalkki näyttää tältä :
 
-![Image](kuvat/kuva-05b.png)
+![Image](kuvat/kuva157.png)
 
 ----
