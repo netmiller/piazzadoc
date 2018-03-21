@@ -60,7 +60,7 @@ joista avataan __Lukukuittaukset__
 * aikaleima tulee mukaan automaattisesti
 * käytössä on myös toiminto __Poista oma lukukuittaus__ jolla toimen voi perua tarvittaessa
 
-Toimintaohjeen laatija seuraa, että kaikki ao. ovat käyneet tutustumassa ja kuittaamassa.
+Toimintaohjeen laatija seuraa, että kaikki joille asia kuuluu ovat käyneet tutustumassa ja kuittaamassa.
 
 Myös tulokkaat ja muut perehdytettävät käyvät kuittaamassa ohjeeseen tutustumisensa jälkeen.
 
