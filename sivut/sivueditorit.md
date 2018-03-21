@@ -1,20 +1,17 @@
 # Sivueditorin vaihtaminen
 
 
-Vaihda sivueditori TinyMCE:ksi näin:
+Uusimmassa piazzan versiossa pitäisi kaikilla olla automaattisesti __TinyMCE__ sivueditori valmiina.
 
-* Valitse Asetukset -> Omat asetukset
-* vaihda __Kupu -> TinyMCE__
+Voi tarkistaa asian seuraavasti :
 
-![Image](kuvat/kuva-13.png)
+* avaa ylävalikosta __oman käyttäjätunnuksen__ alta löytyvä valikko
+* valitse __Asetukset__
+* valitse välilehti __Omat asetukset__
 
-----
+![Image](kuvat/kuva157.png)
 
-![Image](kuvat/sivueditorinvaihtaminen.png)
-
-
-!!! note "Huom"
-	Internet Explorer -käyttäjillä tulee olla tässä kohdassa TinyMCE jotta sivujen muokkaus onnistuu.
+Tällä hetkellä ei ole käytössä muita kuin __TinyMCE__ editori.  Vanha __Kupu__ editori ei pitäisi enää näkyä missään.
 
 ----
 
@@ -23,15 +20,5 @@ Vaihda sivueditori TinyMCE:ksi näin:
 TinyMCE-editorin työkalupalkki näyttää tältä :
 
 ![Image](kuvat/kuva-05b.png)
-
-----
-
-## Kupu-editori
-
-Jos dokumentit piazzalla ovat tiedostoina, on oletuseditori ___Kupu___  riittävä otsikoiden ja lyhyen kuvauksen laatimiseen.
-
-Kupu-editorin työkalupalkki näyttää tältä :
-
-![Image](kuvat/kuva-05.png)
 
 ----
