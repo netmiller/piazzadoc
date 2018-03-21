@@ -1,4 +1,4 @@
-site_name: Piazzadoc @ Coaching Onward 2016
+site_name: Piazzadoc @ Coaching Onward 2018
 
 # Documentation and theme
 docs_dir: 'sivut'
@@ -6,7 +6,7 @@ docs_dir: 'sivut'
 theme: 'readthedocs'
 
 # Copyright
-copyright: 'Copyright © 2016 Netmiller & Coaching Onward'
+copyright: 'Copyright © 2018 Netmiller & Coaching Onward'
 
 repo_url: https://github.com/netmiller/piazzadoc/
 repo_name: 'GitHub'
