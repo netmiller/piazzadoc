@@ -38,6 +38,8 @@ Seuraavassa on ehdotus ohjeiden nimeämisestä ja hallinnasta ajatuksena, että 
 
 Toimintaohjeiksi nimetään vain ns. pakolliset salkussa luetellut ohjeet, muut ohjeet ovat apteekkiohjeita tai työohjeita, jolloin vain toimintaohjeiksi nimetyt ohjeet perehdytetään ja kuitataan luetuiksi.
 
+----
+
 ### Ohjeiden arkistointi
 
 Kaikki ohjeet säilytetään vain sähköisinä piazzalla (tarvittaessa työpisteessä tuloste, muistetaan myös sen päivitys), myös toimintaohjeiden kuittaaminen hoidetaan piazzalla.
@@ -47,6 +49,8 @@ Koska toimintaohjeet tulee löytyä helposti, laaditaan piazzalle sivuna toimint
 Luettelossa jokainen ohje linkitetään ko. toimintaohjeeseen, kts. [linkitys](dokumentin_tekeminen/#dokumenttien-linkitys).
 
 Toimintaohjeet ja muut ohjeet ovat fyysisisesti ko. prosessin ohjekansiossa. Muutetaan tarvittaessa Toimintaohjeet -kansion nimet -> Ohjeet. 
+
+----
 
 ### Toimintaohjeiden kuittaaminen
 
@@ -68,6 +72,7 @@ Kun ohjetta päivitetään ja siitä infotaan, poistetaan vanhat kuittaukset ja 
 
 Muiden kuin omia lukukuittauksia voi poistaa piazzan ylläpitäjän oikeuksilla.
 
+----
 
 ### Toimintaohjeiden tarkistaminen 
 
@@ -78,4 +83,3 @@ Ne arvioidaan sisäisesti (auditoidaan) vuosittain, joten tämä riittänee vira
 Arvioinnin muistioon maininta, että toimintaohjeet on tarkistettu, arviointiohjeen muuttaminen tältä osin.
 
 ----
-
