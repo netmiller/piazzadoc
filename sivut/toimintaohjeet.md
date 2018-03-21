@@ -57,6 +57,7 @@ Toimintaohjeiden __kuittaus__ hoidetaan sähköisesti piazzalla seuraavan esimer
 * kaikkien dokumenttien (sivudokumentit ja tiedostot) __alareunasta__ löytyy muutama välilehti,
 joista avataan __Lukukuittaukset__
 * toiminnolla __Kuittaa luetuksi__ voi jokainen hoitaa oman puumerkkinsä kuntoon, kun on ohjeeseen tutustunut
+* aikaleima tulee mukaan automaattisesti
 * käytössä on myös toiminto __Poista oma lukukuittaus__ jolla toimen voi perua tarvittaessa
 
 Toimintaohjeen laatija seuraa, että kaikki ao. ovat käyneet tutustumassa ja kuittaamassa.
