@@ -68,7 +68,7 @@ Toimintaohjeen laatija seuraa, että kaikki joille asia kuuluu ovat käyneet tut
 
 Myös tulokkaat ja muut perehdytettävät käyvät kuittaamassa ohjeeseen tutustumisensa jälkeen.
 
-Kun ohjetta päivitetään ja siitä infotaan, poistetaan vanhat kuittaukset ja lisätään uusi tutustumispyyntö em. mukaisesti.
+Kun ohjetta päivitetään ja siitä infotaan, ohjeeseen tutustutaan, poistetaan vanha kuittaus ja kuitataan uudestaan em. mukaisesti.
 
 Muiden kuin omia lukukuittauksia voi poistaa piazzan ylläpitäjän oikeuksilla.
 
