@@ -66,7 +66,7 @@ Myös tulokkaat ja muut perehdytettävät käyvät kuittaamassa ohjeeseen tutust
 
 Kun ohjetta päivitetään ja siitä infotaan, poistetaan vanhat kuittaukset ja lisätään uusi tutustumispyyntö em. mukaisesti.
 
-Muiden kuin omia lukukuittauksia voi poistaa piazzan ylläpitäjäoikeudet omaavat.
+Muiden kuin omia lukukuittauksia voi poistaa piazzan ylläpitäjän oikeuksilla.
 
 
 ### Toimintaohjeiden tarkistaminen 
