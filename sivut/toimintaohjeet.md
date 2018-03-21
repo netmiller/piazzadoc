@@ -52,13 +52,13 @@ Toimintaohjeet ja muut ohjeet ovat fyysisisesti ko. prosessin ohjekansiossa. Muu
 
 Toimintaohjeiden __kuittaus__ hoidetaan sähköisesti piazzalla seuraavan esimerkin mukaisesti:
 
-![Image](kuvat/kuva155.png)
-
 * kaikkien dokumenttien (sivudokumentit ja tiedostot) __alareunasta__ löytyy muutama välilehti,
 joista avataan __Lukukuittaukset__
 * toiminnolla __Kuittaa luetuksi__ voi jokainen hoitaa oman puumerkkinsä kuntoon, kun on ohjeeseen tutustunut
 * aikaleima tulee mukaan automaattisesti
 * käytössä on myös toiminto __Poista oma lukukuittaus__ jolla toimen voi perua tarvittaessa
+
+![Image](kuvat/kuva155.png)
 
 Toimintaohjeen laatija seuraa, että kaikki joille asia kuuluu ovat käyneet tutustumassa ja kuittaamassa.
 
