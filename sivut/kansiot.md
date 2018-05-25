@@ -62,6 +62,7 @@ Tekijä muutetaan valitsemalla vihreästä valikosta **Muokkaa**.
 
 Valitaan avautuvalta sivulta **Tekijätiedot**.<br>
 Muutetaan tekijäksi **omat tunnukset** ja lopuksi **tallenna**.<br>
+
 Näin muutetaan tarvittaessa myös **dokumentin tekijä.** 
 
 ![Image](kuvat/kansionmuokkaaminen4.png)
