@@ -64,7 +64,7 @@ Valitaan avautuvalta sivulta **Tekijätiedot**.<br>
 Muutetaan tekijäksi **omat tunnukset** ja lopuksi **tallenna**.<br>
 Näin muutetaan tarvittaessa myös **dokumentin tekijä.** 
 
-![Image](kuvat/kansionmuokkaaminen2.png)
+![Image](kuvat/kansionmuokkaaminen4.png)
 
 ----
 
