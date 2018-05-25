@@ -84,6 +84,9 @@ Myös päivityksistä muistetaan tiedottaa ja toimintaohjeet kuitata sovitulla t
 
 Dokumentin tekijäksi tulee oletuksena sen alkuperäinen laatija, mutta sitä voidaan muuttaa tarvittaessa.
 
+Tekijä vaihdetaan samaksi kuin dokumentin laatija.
+Etenkin jos tekijä __ei ole enää työsuhteessa__, hänen nimensä tulee __korvata dokumentin laatijalla__.
+
 Muutos tapahtuu valitsemalla vihreästä valikosta Muokkaa.
 Valitaan avautuvalta sivulta Tekijätiedot.
 Muutetaan __Tekijät__ laatikossa tunnus/tunnukset halutun henkilön mukaiseksi.
