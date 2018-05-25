@@ -5,6 +5,7 @@ Tämän ohjesivun sisältö:
 - Dokumenttien julkaiseminen
 - Dokumentin hyväksyminen
 - Hyväksytyn dokumentin päivittäminen
+- Dokumentin tekijän muuttaminen
 - Dokumentin historiatiedot
 
 ----
@@ -76,6 +77,18 @@ Dokumentti lähetetään hyväksyttäväksi muuttamalla **Tila julkaistu** -> **
 Hyväksyminen tapahtuu edellä kuvatun mukaisesti.
 
 Myös päivityksistä muistetaan tiedottaa ja toimintaohjeet kuitata sovitulla tavalla.
+
+----
+
+## Dokumentin tekijän muuttaminen
+
+Dokumentin tekijäksi tulee oletuksena sen alkuperäinen laatija, mutta sitä voidaan muuttaa tarvittaessa.
+
+Muutos tapahtuu valitsemalla vihreästä valikosta Muokkaa.
+Valitaan avautuvalta sivulta Tekijätiedot.
+Muutetaan __Tekijät__ laatikossa tunnus/tunnukset halutun henkilön mukaiseksi.
+
+Tämä muutos menee hyvin samanlaisella logiikalla kuin __Kansion tekijän muuttaminen__ [linkki](kansiot/#kansion-tekijan-muuttaminen).
 
 ----
 
