@@ -13,7 +13,8 @@ Sivudokumenttien  viimeisin versio on luonnostaan piazzalla, koska sivueditointi
 Lue lisää [dokumentin laatimisesta](dokumentin_tekeminen.md).
 
 Jokainen voi vaikuttaa dokumentteihin tai toimintaan kommentoimalla dokumentteja.
-Dokumentit voi hyväksyttää piazzalla sähköisesti, myös toimintaohjeet ja muut sovitut kuitata luetuiksi kommenttiominaisuudella.
+
+Dokumentit voi hyväksyttää piazzalla sähköisesti, myös toimintaohjeet ja muut sovitut [lukukuittauksella](toimintaohjeet/#toimintaohjeiden-kuittaaminen)
 
 Piazzan tunnukset voi antaa määräajaksi esim. sertifioijalle, jolloin dokumentteja ei tarvitse lähettää sähköpostilla tai muistitikulla.
 
